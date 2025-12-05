@@ -4,3 +4,4 @@
 [2025-10-10T15:01:00] refactor: extract reusable hooks for data fetching
 [2025-10-26T14:47:00] refactor: improve TypeScript strict mode compliance
 [2025-11-08T09:52:00] feat: add unit tests for utility functions
+[2025-12-05T16:17:00] fix: correct date formatting for timezone handling
