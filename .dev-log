@@ -32,3 +32,5 @@
 [2026-06-04T09:30:00] feat: add email notification on review request and decision
 
 [2026-06-10T14:00:00] docs: add comprehensive README with GraphQL playground guide
+
+[2026-02-06T14:00:00] feat: scaffold GraphQL server with Apollo Server 4
