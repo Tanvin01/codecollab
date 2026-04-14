@@ -22,3 +22,5 @@
 [2026-04-03T14:00:00] feat: add inline comment threading with reply support
 
 [2026-04-09T11:30:00] feat: implement GraphQL subscriptions for live updates
+
+[2026-04-14T13:00:00] feat: add GitHub App webhook for PR synchronisation
