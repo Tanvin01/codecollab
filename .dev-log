@@ -41,3 +41,4 @@
 [2026-04-14T13:00:00] feat: add GitHub App webhook for PR synchronisation
 [2026-05-05T09:00:00] feat: add code snippet sharing with syntax highlighting
 [2026-05-11T14:00:00] feat: implement workspace member role management
+[2026-06-04T09:30:00] feat: add email notification on review request and decision
