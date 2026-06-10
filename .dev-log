@@ -30,3 +30,5 @@
 [2026-05-11T14:00:00] feat: implement workspace member role management
 
 [2026-06-04T09:30:00] feat: add email notification on review request and decision
+
+[2026-06-10T14:00:00] docs: add comprehensive README with GraphQL playground guide
